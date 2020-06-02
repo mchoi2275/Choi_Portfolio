@@ -8,14 +8,14 @@ Ramen Noodles: Project Overview
 
 
 Tools
-Python
-Numpy
-Pandas
-Seaborn
-Jupyter Notebook
+* Python
+* Numpy
+* Pandas
+* Seaborn
+* Jupyter Notebook
 
 Source
-Data: https://www.theramenrater.com/resources-2/the-list/
+* Data: https://www.theramenrater.com/resources-2/the-list/
 
 
 
