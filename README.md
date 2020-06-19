@@ -10,6 +10,6 @@ Data Analytic Portfolio
 * Ability to clean data
 
 # [Project 2: University Enrolments: Project Overview](https://github.com/mchoi2275/Choi_Portfolio/blob/master/Tableau%20Project/Analysis.md)
-* Exploratory analysis about University enrolments, program level, Classification of Instructional Programs, and gender in Canada
+* Exploratory analysis about university enrolments, program level, classification of instructional programs, and gender in Canada
 * To show the use of Tableau and the features
 * Create a Dashboard to tell clear and concise story about the data
