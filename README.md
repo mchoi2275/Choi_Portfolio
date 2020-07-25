@@ -13,3 +13,9 @@ Data Analytic Portfolio
 * Exploratory analysis about university enrolments, program level, classification of instructional programs, and gender in Canada
 * To show the use of Tableau and the features
 * Create a Dashboard to tell clear and concise story about the data
+
+# [#Makeover Mondays](https://github.com/mchoi2275/Choi_Portfolio/blob/master/%23Makeover%20Mondays/README.MD)
+*Weekly submissions for #Makeover Monday https://www.makeovermonday.co.uk/data/
+*Exploratory analysis
+*Data Visualization using Tableau
+
