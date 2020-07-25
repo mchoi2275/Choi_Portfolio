@@ -1,10 +1,8 @@
 #Makeover Monday Submissions
 
-*Weekly submissions for #Makeover Monday https://www.makeovermonday.co.uk/data/
-
-*Exploratory analysis
-
-*Data Visualization using Tableau
+* Weekly submissions for #Makeover Monday https://www.makeovermonday.co.uk/data/
+* Exploratory analysis
+* Data Visualization using Tableau
 
 
 Week 29 2020
