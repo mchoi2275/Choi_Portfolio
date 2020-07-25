@@ -3,7 +3,7 @@
 * Weekly submissions for #Makeover Monday https://www.makeovermonday.co.uk/data/
 * Exploratory analysis
 * Data Visualization using Tableau
-
+* Data & Datasource contained in folder
 
 Week 29 2020
 The Global Divide on Homosexuality
