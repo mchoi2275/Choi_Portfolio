@@ -14,6 +14,10 @@ Data Analytic Portfolio
 * To show the use of Tableau and the features
 * Create a Dashboard to tell clear and concise story about the data
 
+# [Project 3: IMDB Analysis: (In Progress)]
+* Exploratory analysis about IMDB movie ratings
+* Find correlations between categories
+
 # [Makeover Mondays](https://github.com/mchoi2275/Choi_Portfolio/blob/master/%23Makeover%20Mondays/README.MD)
 * Weekly submissions for #Makeover Monday https://www.makeovermonday.co.uk/data/
 * Exploratory analysis
