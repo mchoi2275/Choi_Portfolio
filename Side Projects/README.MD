@@ -1,2 +1,2 @@
 Side Projects 
-1. Coffee Maker
+1. Coffee Machine
