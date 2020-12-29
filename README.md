@@ -23,3 +23,5 @@ Data Analytic Portfolio
 * Exploratory analysis
 * Data Visualization using Tableau
 
+# [Side Projects](https://github.com/mchoi2275/Choi_Portfolio/tree/master/Side%20Projects)
+* Side projects
