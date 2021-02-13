@@ -12,10 +12,15 @@ Data Analytic Portfolio
 # [Project 2: Morse Code: Project Overview](https://github.com/mchoi2275/Choi_Portfolio/tree/master/Morse%20Code%20Project)
 * Takes input from the user and translates it into morse code
 
-# [Project 3: Toronto Rental: Project Overview](https://github.com/mchoi2275/Choi_Portfolio/tree/master/Toronto%20Rental%20Project)
+# [Project 3: Toronto Rental: Project Overview](https://github.com/mchoi2275/Choi_Portfolio/tree/master/Majors%20Project)
 * Scrapes data from the zillow website with BeautifulSoup
 * Using the data, write to google form with Selenium
 * Data gets saved to csv
+
+# [Project 3: Toronto Rental: Project Overview](https://github.com/mchoi2275/Choi_Portfolio/tree/master/Toronto%20Rental%20Project)
+* Exploratory analysis about University Major's salary
+* Generate observational questions
+* Critical analysis about the data set
 
 # [Project 4: University Enrolments: Project Overview](https://github.com/mchoi2275/Choi_Portfolio/blob/master/Tableau%20Project/Analysis.md)
 * Exploratory analysis about university enrolments, program level, classification of instructional programs, and gender in Canada
