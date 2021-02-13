@@ -9,8 +9,7 @@ Data Analytic Portfolio
 * To show the use of pandas, seaborn, numpy, and python
 * Ability to clean data
 
-# [Project 2: Morse Code: Project Overview]
-(https://github.com/mchoi2275/Choi_Portfolio/tree/master/Morse%20Code%20Project)
+# [Project 2: Morse Code: Project Overview](https://github.com/mchoi2275/Choi_Portfolio/tree/master/Morse%20Code%20Project)
 * Takes input from the user and translates it into morse code
 
 # [Project 3: University Enrolments: Project Overview](https://github.com/mchoi2275/Choi_Portfolio/blob/master/Tableau%20Project/Analysis.md)
