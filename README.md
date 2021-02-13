@@ -9,12 +9,16 @@ Data Analytic Portfolio
 * To show the use of pandas, seaborn, numpy, and python
 * Ability to clean data
 
-# [Project 2: University Enrolments: Project Overview](https://github.com/mchoi2275/Choi_Portfolio/blob/master/Tableau%20Project/Analysis.md)
+# [Project 2: Morse Code: Project Overview]
+(https://github.com/mchoi2275/Choi_Portfolio/tree/master/Morse%20Code%20Project)
+* Takes input from the user and translates it into morse code
+
+# [Project 3: University Enrolments: Project Overview](https://github.com/mchoi2275/Choi_Portfolio/blob/master/Tableau%20Project/Analysis.md)
 * Exploratory analysis about university enrolments, program level, classification of instructional programs, and gender in Canada
 * To show the use of Tableau and the features
 * Create a Dashboard to tell clear and concise story about the data
 
-# [Project 3: IMDB Analysis: (In Progress)]
+# [Project 4: IMDB Analysis: (In Progress)]
 * Exploratory analysis about IMDB movie ratings
 * Find correlations between categories
 
