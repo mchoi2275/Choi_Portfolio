@@ -5,3 +5,8 @@ Morse Code : Project Overview
 
 Tools
 * Python
+
+
+Instructions
+* Type in an input
+* To continue (Press Anything) or Exit (Enter 0)
